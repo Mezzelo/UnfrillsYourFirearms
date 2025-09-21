@@ -6,7 +6,7 @@ Currently adds 128 new firearms — with about a dozen of those being variants o
 i'd recommend just waiting til the next update it'll work a lot better with the progression curve ironed out, but hey if you were planning on doing a run anyway
 
 # Installation
-Simply drop the contents of the zip folder into your game's Paks folder.  This can be found in **[GAME ROOT DIRECTORY]/Content/Paks**
+Simply drop the contents of the zip folder into your game's Paks folder.  This can be found in **[GAME ROOT DIRECTORY]/SilverFish/Content/Paks**
 
 You can uninstall it by removing those files.  However, items added by this mod will become non-functional — I would recommend simply removing this mod's patch files (files ending in **_P** included in the .zip) for uninstallation, unless you plan on starting a new anyway.
 
