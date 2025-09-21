@@ -24,4 +24,5 @@ GoldbergR: MP412 Rex - https://sketchfab.com/GoldbergR
 
 All models received complete topology/optimization passes & original UV, rigging & animation work.  In addition, the following weapons are my own original models:
 COP 357, XR9-S
+
 The following models include original modeling work derivative of TastyTony's models: L22, SR-3M Vikhr, Taurus Circuit Judge, Serbu Shorty, AWS 1911, Remington Model 81 Police, & several more variants with changes too minor to note
