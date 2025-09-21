@@ -1,0 +1,30 @@
+0.9.0
+many new guns ive lost count, + attachment variants for some old and new weapons.  not even gonna bother listing them all
+
+- SR 38 Light removed from NPC spawn pools, replaced by the SR 42-L functionally. It is still obtainable at the Broker's shop.
+
+- YC9's recoil increased by ~80%
+- Adjusted reload animations on the Shotgun Revolver, RSK and Heavy Magnum Revolver. Reload time reduced from 1.6 seconds/bullet to 1.35 sec for the latter two.
+- Shortened reload times for the Winnie Lever-Action and Winnie Compact to 0.42 seconds/bullet, from 0.8 seconds/bullet
+- New bolting animations for the Bolt-Action Carbine & Mag-Fed Bolt-Action Carbine, that no longer shove them in your face.
+- Bolt-Action 45 Carbine's fire rate increased from 55 RPM to 72 RPM.  New bolting animation to reflect this.
+- Recon Bolt-Action is closer when aiming down sights.
+- Avtomat recoil reduced by 30%
+- BR-18 MG recoil reduced by ~12.5%
+- BRN MG recoil reduced by ~30%
+- RSK recoil reduced by 20%
+- Spread on the Revolver Shotgun increased by 253%, recoil increased by 30%
+- Spread on the Lever-Action Shotgun increased by 25%
+- New magazine model and icon for the PR-7 Rifle, to better reflect 20 round capacity
+- RZ61 Automatic's muzzle velocity reduced by 35 m/s, to 340 m/s.
+- Type 33B Carbine's muzzle velocity reduced by 20 m/s, to 780 m/s.  Recoil increased by uh a lot.
+- Shorty's muzzle velocity decreased by 65 m/s, to 685 m/s
+- A2SK's muzzle velocity increased by 50 m/s, to 550 m/s.
+- more balance changes i can't recall, there's been many
+
+- Topology/optimization passes on almost all existing guns, reducing tri-counts by around ~100-700 each (~5-25% optimizations)
+- Fixed geometry issues on several guns that caused shading issues, clipping, or see-through parts.
+- Redone animations on several guns
+- Shotgun Revolver and Heavy Magnum Revolver now cycle counter-clockwise, for gun nerd reasons.
+- Changed dry reload animation on semi-automatic shotguns back to the regular pump-action shotgun reload.  Better a phantom pump than no movement at all imo
+- Added bolt animation to semi-automatic shotguns
